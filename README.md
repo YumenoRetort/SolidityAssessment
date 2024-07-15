@@ -16,3 +16,15 @@ This code accomplishes the following requirements:
        and from the balance of the “sender”.
     5. Lastly, your burn function should have conditionals to make sure the balance of "sender" is greater than or equal 
        to the amount that is supposed to be burned.
+
+## How/where to download your program
+You can download my program directly from GitHub via the download button in the upper right.
+
+
+## Executing program
+This program can be run using the website Remix linked here: https://remix.ethereum.org/
+
+
+## How to run the program
+- Within Remix you can run the program by clicking the "Deploy & Run Transactions" button.
+- After this, you will be able to interact with the mint and burn functions as well as call on the variables.
