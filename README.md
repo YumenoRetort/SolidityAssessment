@@ -28,3 +28,12 @@ This program can be run using the website Remix linked here: https://remix.ether
 ## How to run the program
 - Within Remix you can run the program by clicking the "Deploy & Run Transactions" button.
 - After this, you will be able to interact with the mint and burn functions as well as call on the variables.
+
+## Authors
+
+Erin Beatrice Micaela G. Reyes
+
+
+## License
+
+This project is licensed under the MIT License - see the (LICENSE.md){https://github.com/YumenoRetort/SolidityAssessment/blob/main/LICENSE} file for details 
